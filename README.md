@@ -1,4 +1,1 @@
-wave-file-generation
-====================
-
-Wave File Generator
+Script used to generate a wav file containing a specified frequency, duration, bitrate, and amplitude.
